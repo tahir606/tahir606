@@ -10,7 +10,7 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 
 <b>Back end:</b> NodeJS + ExpressJS/Koa/Adonis, TS-Node, NestJS, GraphQL, Firebase 
 
-<b>Testing:</b> Jest, Jasmine
+<b>Testing:</b> Jest, Jasmine, TDD
 
 <b>Database:</b> MySQL, MSSQL, Oracle, MongoDB, SQLite, Firestore
 
