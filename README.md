@@ -30,5 +30,5 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 [![Gmail Badge](https://img.shields.io/badge/-tahir60652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tahir60652@gmail.com)](mailto:tahir60652@gmail.com)
 </p>
 <br>
-My portfolio website: <a href="https://tahirshakir.com">Tahir Shakir</a>
+My portfolio website: <a href="https://tahirshakir.com">Tahir Shakir</a><br>
 My company website: <a href="https://tasolutions.com.pk">TA Solutions</a>
