@@ -24,7 +24,7 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 
 <b>Version control:</b> GitHub, Bitbucket, Gitlab
 
-<b>Project management tools:</b> Jira, Trello, Monday
+<b>Project management tools:</b> Jira, Trello, Monday, Confluence
 
 
 <b>Contact me for a project that I can help you with:</b><br>
