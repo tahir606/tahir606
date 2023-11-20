@@ -2,11 +2,11 @@
 <h2 align="center">Full stack developer</h2>
 <br>
 <p>
-✅ About Me:
+<b>✅ About Me:</b>
   
 I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img width="16" height="16" src="https://img.icons8.com/color/48/pakistan.png" alt="pakistan"/> Pakistan. In my 5+ Years of Experience, I have developed complete web applications with backend APIs, integrated and administered databases, and provided a complete and satisfying service to startups as well as established businesses in their internal as well as external needs.
 
-✅ My tech stack:
+<b>✅ My tech stack:</b>
 
 <b>Languages:</b> Javascript, Typescript, MySQL
 
