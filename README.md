@@ -7,7 +7,7 @@
 
 💻 Building web apps for 5+ years
 
-✅ Worked with 20+ companies
+💥 Worked with 20+ companies
 
 💎 Completed 50+ projects
 
