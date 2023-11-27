@@ -31,7 +31,7 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 
 <b>API Integrations:</b> Stripe, Plaid, Paypal, Google Maps, ChatGPT, OpenAI, ChatGPT
 
-<b>DevOps:</b> AWS S3, EC2, Elastic Beanstalk, Route 53, ACM, GCP Cloud run, Cloud build, RDB, Azure, Docker, CI-CD pipelines with Gitlab, Bitbucket, GitHub
+<b>DevOps:</b> Nginx, AWS S3, EC2, Elastic Beanstalk, Route 53, ACM, GCP Cloud run, Cloud build, RDB, Azure, Docker, CI-CD pipelines with Gitlab, Bitbucket, GitHub
 
 <b>Version control:</b> GitHub, Bitbucket, Gitlab
 
