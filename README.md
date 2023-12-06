@@ -27,7 +27,7 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 
 <b>Testing:</b> Jest, Jasmine, TDD
 
-<b>Database:</b> MySQL, MSSQL, Oracle, MongoDB, SQLite, Firestore
+<b>Database:</b> MySQL, MSSQL, Oracle, MongoDB, SQLite, Firestore, Postgres
 
 <b>API Integrations:</b> Stripe, Plaid, Paypal, Google Maps, ChatGPT, OpenAI, ChatGPT
 
