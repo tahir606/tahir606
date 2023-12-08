@@ -9,7 +9,7 @@
 
 💥 Worked with 25+ companies
 
-💎 Completed 50+ projects
+💎 Delivered 50+ projects
 
 📈 Catered to 1000+ active users
 
