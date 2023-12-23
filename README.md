@@ -9,8 +9,6 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 
 <h3><b>My tech stack:</b></h3>
 
-<b>Languages:</b> Javascript, Typescript, MySQL
-
 <b>Front end:</b> Angular (2-10) + Angular Material + NgRx, React JS + Next JS + Redux
 
 <b>Back end:</b> NodeJS + ExpressJS/Koa/Adonis, TS-Node, NestJS, GraphQL, Firebase, Lambda, Cloud Functions 
