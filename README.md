@@ -26,6 +26,7 @@ I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img wid
 <b>Project management tools:</b> Jira, Trello, Monday
 
 
+
 <b>Contact me for a project that I can help you with:</b><br>
 <a href="https://www.linkedin.com/in/tahirshakir" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
 [![Gmail Badge](https://img.shields.io/badge/-tahir60652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tahir60652@gmail.com)](mailto:tahir60652@gmail.com)
