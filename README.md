@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Tahir Shakir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">Senior Full Stack Developer with 5 years of experience!</h2>
+<h2 align="center">Senior Full Stack Developer with 6 years of experience!</h2>
 <br>
 
 <h3><b>About Me: </b></h3>
   
-I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img width="16" height="16" src="https://img.icons8.com/color/48/pakistan.png" alt="pakistan"/> Pakistan. In my 5+ Years of Experience, I have developed complete web applications with backend APIs, integrated and administered databases, and provided a complete and satisfying service to startups as well as established businesses in their internal as well as external needs.
+I am a Full Stack (MEAN & MERN) Web Developer working professionally in <img width="16" height="16" src="https://img.icons8.com/color/48/pakistan.png" alt="pakistan"/> Pakistan. In my 6+ Years of Experience, I have developed complete web applications with backend APIs, integrated and administered databases, and provided a complete and satisfying service to startups as well as established businesses in their internal as well as external needs.
 
 <h3><b>My tech stack:</b></h3>
 
